@@ -1,0 +1,43 @@
+function setup() { 
+  createCanvas(600,600);
+} 
+
+function draw() { 
+  background(0);
+
+//hours circle
+fill(2);
+ellipse(300,300,400,400);
+fill(10,100,200);
+arc(300,300,400,400,1.5*PI,(hour()/6*PI-HALF_PI));
+fill(0);
+ellipse(300,300,330,330);
+
+//minutes circle
+fill(2);
+ellipse(300,300,300,300);
+fill(200,10,400);
+arc(300,300,300,300,1.5*PI,(minute()/30*PI-HALF_PI));
+fill(0);
+ellipse(300,300,255,255);
+
+//seconds circle
+fill(2);
+ellipse(300,300,200,200);
+fill(130,10,10);
+arc(300,300,200,200,1.5*PI,(second()/30*PI-HALF_PI));
+fill(0);
+ellipse(300,300,180,180);
+
+//milliseconds circle
+fill(2);
+ellipse(300,300,100,100);
+fill(90,900,90);
+arc(300,300,100,100,1.5*PI,(millis()/500*PI-HALF_PI));
+fill(0);
+ellipse(300,300,89,89);
+
+//actual time as seen on top left
+//text(hour() + " : " + minute() + " : " + second(), 20, 20);
+
+}
