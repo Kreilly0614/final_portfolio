@@ -1,3 +1,33 @@
+//I put the PDF in this time, and an exerpt in case it doesn't load possibly.
+
+file:///C:/Users/kreil/OneDrive/Desktop/dog_story%20(3).pdf
+
+Story of a Dog
+
+WUFF 0
+
+Grrrrrrrr!!! Ruff Grrrrrrrr!!! WUFF n RUFF! Woof Ruff Grrrrrrrr!!! WOOF-WOOF WUFF n RUFF!
+Woof Wuff Wuff Ruff WUFF n RUFF! ROOOOOOOOOOOOOOOOO! Wuff Grrrrrrrr!!! Wuff Ruff Grrrrrrrr!!!
+WUFF n RUFF!. Wuff Wuff Ruff WUFF n RUFF! ROOOOOOOOOOOOOOOOO! Ruff Grrrrrrrr!!!
+WUFF n RUFF! Woof Wuff Ruff Grrrrrrrr!!! WOOF-WOOF WUFF n RUFF! Woof Wuff Ruff Grrrrrrrr!!!
+WOOF-WOOF WUFF n RUFF! Woof Ruff Grrrrrrrr!!! WUFF n RUFF! Woof Wuff Ruff Grrrrrrrr!!! WOOF-WOOF WUFF n RUFF!
+Woof Wuff Ruff Grrrrrrrr!!! WUFF n RUFF! ROOOOOOOOOOOOOOOOO!. Wuff Ruff Grrrrrrrr!!! WUFF n RUFF! Wuff Ruff WUFF n RUFF!
+ROOOOOOOOOOOOOOOOO! Wuff Ruff Grrrrrrrr!!! WUFF n RUFF! Wuff Wuff Ruff Grrrrrrrr!!! WUFF n RUFF! Wuff Ruff Grrrrrrrr!!! 
+WUFF n RUFF! ROOOOOOOOOOOOOOOOO! Grrrrrrrr!!! Wuff Ruff WUFF n RUFF! ROOOOOOOOOOOOOOOOO!. Wuff Ruff Grrrrrrrr!!! WUFF n RUFF! 
+ROOOOOOOOOOOOOOOOO! Wuff Wuff Wuff Ruff Grrrrrrrr!!! WOOF-WOOF WUFF n RUFF! Woof Grrrrrrrr!!!
+
+Wuff Ruff WUFF n RUFF! ROOOOOOOOOOOOOOOOO! Grrrrrrrr!!!. Wuff Ruff WUFF n RUFF! ROOOOOOOOOOOOOOOOO!
+Grrrrrrrr!!! Grrrrrrrr!!! Wuff Ruff Grrrrrrrr!!! WUFF n RUFF! Woof Ruff Grrrrrrrr!!! WOOF-WOOF WUFF n RUFF!
+Woof Wuff Ruff Grrrrrrrr!!! WUFF n RUFF! ROOOOOOOOOOOOOOOOO! Wuff Ruff WUFF n RUFF!
+ROOOOOOOOOOOOOOOOO!. Wuff Ruff Grrrrrrrr!!! WOOF-WOOF WUFF n RUFF! Woof Grrrrrrrr!!!
+Wuff Ruff Grrrrrrrr!!! WUFF n RUFF! ROOOOOOOOOOOOOOOOO! Grrrrrrrr!!! Ruff Grrrrrrrr!!! WOOF-WOOF WUFF n RUFF!
+Woof Grrrrrrrr!!! Wuff Ruff Grrrrrrrr!!! WOOF-WOOF WUFF n RUFF! Woof. Wuff Ruff WUFF n RUFF!
+ROOOOOOOOOOOOOOOOO! Wuff Ruff Grrrrrrrr!!! 
+
+
+
+
+[Start Code]
 import random
 from weasyprint import HTML
 
